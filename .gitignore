@@ -1,6 +1,6 @@
-/debian/python3-tikapy.*.debhelper
-/debian/python3-tikapy.*.log
-/debian/python3-tikapy.substvars
-/debian/python3-tikapy
+/debian/pagerduty-icinga.*.debhelper
+/debian/pagerduty-icinga.*.log
+/debian/pagerduty-icinga.substvars
+/debian/pagerduty-icinga
 /debian/files
 /.pc
