@@ -1,0 +1,5 @@
+pagerduty-icinga-pl (0.1.0-1) UNRELEASED; urgency=medium
+
+  * Initial release. 
+
+ -- Nicolas Bigler <nicolas.bigler@vshn.ch>  Fri, 21 Aug 2015 15:49:42 +0200

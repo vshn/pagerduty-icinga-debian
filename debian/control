@@ -1,0 +1,12 @@
+Source: pagerduty-icinga-pl
+Maintainer: Nicolas Bigler <nicolas.bigler@vshn.ch>
+Section: perl
+Priority: optional
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.9.5
+
+Package: pagerduty-icinga
+Architecture: all
+Depends: ${misc:Depends}, libwww-perl, libcrypt-ssleay-perl
+Description: A perl script to send icinga notifications to pagerduty
+
